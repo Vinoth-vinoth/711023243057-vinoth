@@ -5,7 +5,7 @@ jobs:
     runs-on: ubunt-latest
     steps:
       - name: my-step
-        run: echo "Hello-World-711023243057!"
+        run: echo "Hello-World! - 711023243057"
       - name: assaignment
         run: echo "submitting ssaignment!"
       - name: attending workshop
